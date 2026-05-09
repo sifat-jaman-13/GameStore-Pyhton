@@ -4,14 +4,15 @@
 
 ## 🔗 Quick Links
 [![Python](https://img.shields.io/badge/Python-Official%20Site-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![customtkinter](https://img.shields.io/badge/customtkinter-GitHub%20Repo-333333?logo=github)](https://github.com/TomSchimansky/CustomTkinter)
 [![NSU](https://img.shields.io/badge/NSU-North%20South%20University-1E90FF?logo=graduation-cap&logoColor=white)](https://www.northsouth.edu/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-333333?logo=github)](https://github.com/sifat-jaman-13/GameStore-Pyhton)
 
-![Python Version](https://img.shields.io/badge/python-3.14%2B-blue)
-![Framework](https://img.shields.io/badge/framework-customtkinter-green)
-![Platform](https://img.shields.io/badge/platform-windows%20%7C%20linux%20%7C%20macos-brightgreen)
-![License](https://img.shields.io/badge/license-proprietary-blue)
-![Status](https://img.shields.io/badge/status-production%20ready-brightgreen)
+[![Python Version](https://img.shields.io/badge/python-3.14%2B-blue)](https://www.python.org/downloads/)
+[![Framework](https://img.shields.io/badge/framework-customtkinter-green)](https://github.com/TomSchimansky/CustomTkinter)
+[![Platform](https://img.shields.io/badge/platform-windows%20%7C%20linux%20%7C%20macos-brightgreen)](#-quick-start)
+[![License](https://img.shields.io/badge/license-proprietary-blue)](#-license)
+[![Status](https://img.shields.io/badge/status-production%20ready-brightgreen)](#-project-overview)
 
 ---
 
