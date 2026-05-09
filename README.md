@@ -2,6 +2,11 @@
 
 > A comprehensive Python-based game store application with separate user and admin interfaces built with customtkinter.
 
+## 🔗 Quick Links
+[![Python](https://img.shields.io/badge/Python-Official%20Site-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![NSU](https://img.shields.io/badge/NSU-North%20South%20University-1E90FF?logo=graduation-cap&logoColor=white)](https://www.northsouth.edu/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-333333?logo=github)](https://github.com/sifat-jaman-13/GameStore-Pyhton)
+
 ![Python Version](https://img.shields.io/badge/python-3.14%2B-blue)
 ![Framework](https://img.shields.io/badge/framework-customtkinter-green)
 ![Platform](https://img.shields.io/badge/platform-windows%20%7C%20linux%20%7C%20macos-brightgreen)
