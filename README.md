@@ -4,6 +4,7 @@
 
 ## 🔗 Quick Links
 [![Python](https://img.shields.io/badge/Python-Official%20Site-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Course](https://img.shields.io/badge/Course-CSE101%20Python-yellow?logo=education)](https://ece.northsouth.edu/courses/cse101-introduction-to-python-programming/)
 [![customtkinter](https://img.shields.io/badge/customtkinter-GitHub%20Repo-333333?logo=github)](https://github.com/TomSchimansky/CustomTkinter)
 [![NSU](https://img.shields.io/badge/NSU-North%20South%20University-1E90FF?logo=graduation-cap&logoColor=white)](https://www.northsouth.edu/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-333333?logo=github)](https://github.com/sifat-jaman-13/GameStore-Pyhton)
