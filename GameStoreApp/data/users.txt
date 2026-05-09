@@ -1,0 +1,18 @@
+sifat13|1313|sifat@gmail.com|01927081031|Sifat|ACTIVE|501142.10
+nafis01|1234|nafis@example.com|01711000001|Nafis Rahman|ACTIVE|12500
+maya22|1234|maya@example.com|01711000002|Maya Chowdhury|ACTIVE|9800
+arifgamer|1234|arif@example.com|01711000003|Arif Hossain|ACTIVE|15000
+tanvirx|1234|tanvir@example.com|01711000004|Tanvir Ahmed|ACTIVE|6200
+rituplay|1234|ritu@example.com|01711000005|Ritu Akter|ACTIVE|11350
+samirpro|1234|samir@example.com|01711000006|Samir Khan|DISABLED|4000
+nadiagame|1234|nadia@example.com|01711000007|Nadia Islam|ACTIVE|18500
+rakib99|1234|rakib@example.com|01711000008|Rakib Hasan|ACTIVE|7200
+farhan20|1234|farhan@example.com|01711000009|Farhan Mahmud|ACTIVE|13400
+tasnimx|1234|tasnim@example.com|01711000010|Tasnim Jahan|ACTIVE|9100
+joyplayer|1234|joy@example.com|01711000011|Joy Das|ACTIVE|5600
+mehedi07|1234|mehedi@example.com|01711000012|Mehedi Hasan|ACTIVE|22000
+orinplay|1234|orin@example.com|01711000013|Orin Sultana|ACTIVE|14800
+shuvo88|1234|shuvo@example.com|01711000014|Shuvo Ahmed|DISABLED|3500
+lamia21|1234|lamia@example.com|01711000015|Lamia Akter|ACTIVE|17600
+hasibpro|1234|hasib@example.com|01711000016|Hasib Rahman|ACTIVE|8300
+priyagame|1234|priya@example.com|01711000017|Priya Sen|BANNED|1200

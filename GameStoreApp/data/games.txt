@@ -1,0 +1,62 @@
+GME-0001|Elden Ring|Action RPG|4499|15|FromSoftware|Bandai Namco Entertainment|FromSoftware|2022
+GME-0002|Cyberpunk 2077|RPG|3999|35|CD Projekt Red|CD Projekt|CD Projekt|2020
+GME-0003|Red Dead Redemption 2|Open World|3999|40|Rockstar Studios|Rockstar Games|Take-Two Interactive|2019
+GME-0004|Grand Theft Auto V|Open World|2599|30|Rockstar North|Rockstar Games|Take-Two Interactive|2015
+GME-0005|The Witcher 3 Wild Hunt|RPG|1999|55|CD Projekt Red|CD Projekt|CD Projekt|2015
+GME-0006|God of War|Action|3299|25|Santa Monica Studio|PlayStation PC|Sony Interactive Entertainment|2022
+GME-0007|Marvel's Spider-Man Remastered|Action|4999|20|Insomniac Games and Nixxes Software|PlayStation PC|Sony Interactive Entertainment|2022
+GME-0008|Horizon Zero Dawn Complete Edition|Adventure|2899|35|Guerrilla|PlayStation PC|Sony Interactive Entertainment|2020
+GME-0009|Resident Evil 4|Horror|4599|20|Capcom|Capcom|Capcom|2023
+GME-0010|Alan Wake 2|Horror|4999|10|Remedy Entertainment|Epic Games Publishing|Remedy Entertainment|2023
+GME-0011|Baldur's Gate 3|RPG|4999|0|Larian Studios|Larian Studios|Larian Studios|2023
+GME-0012|Hades|Roguelike|1299|35|Supergiant Games|Supergiant Games|Supergiant Games|2020
+GME-0013|Dead Cells|Roguelike|1199|40|Motion Twin and Evil Empire|Motion Twin|Motion Twin|2018
+GME-0014|Hollow Knight|Platformer|899|30|Team Cherry|Team Cherry|Team Cherry|2017
+GME-0015|Celeste|Platformer|999|45|Maddy Makes Games|Maddy Makes Games|Extremely OK Games|2018
+GME-0016|Stardew Valley|Simulation|899|20|ConcernedApe|ConcernedApe|ConcernedApe|2016
+GME-0017|Terraria|Sandbox|699|35|Re-Logic|Re-Logic|Re-Logic|2011
+GME-0018|Minecraft Java and Bedrock Edition|Sandbox|2699|0|Mojang Studios|Xbox Game Studios|Microsoft Gaming|2011
+GME-0019|No Man's Sky|Sci-Fi|3499|35|Hello Games|Hello Games|Hello Games|2016
+GME-0020|Starfield|Sci-Fi|5999|25|Bethesda Game Studios|Bethesda Softworks|Microsoft Gaming|2023
+GME-0021|Halo Infinite Multiplayer|Free to Play|0|0|343 Industries|Xbox Game Studios|Microsoft Gaming|2021
+GME-0022|Apex Legends|Battle Royale|0|0|Respawn Entertainment|Electronic Arts|Electronic Arts|2019
+GME-0023|Fortnite|Battle Royale|0|0|Epic Games|Epic Games|Epic Games|2017
+GME-0024|Valorant|Competitive|0|0|Riot Games|Riot Games|Riot Games|2020
+GME-0025|Counter-Strike 2|Shooter|0|0|Valve|Valve|Valve|2023
+GME-0026|Dota 2|Competitive|0|0|Valve|Valve|Valve|2013
+GME-0027|League of Legends|Competitive|0|0|Riot Games|Riot Games|Riot Games|2009
+GME-0028|Warframe|Co-op|0|0|Digital Extremes|Digital Extremes|Digital Extremes|2013
+GME-0029|Destiny 2|Shooter|0|0|Bungie|Bungie|Bungie|2017
+GME-0030|Helldivers 2|Co-op|3299|0|Arrowhead Game Studios|PlayStation PC|Sony Interactive Entertainment|2024
+GME-0031|Deep Rock Galactic|Co-op|1699|45|Ghost Ship Games|Coffee Stain Publishing|Coffee Stain|2020
+GME-0032|Left 4 Dead 2|Co-op|699|60|Valve|Valve|Valve|2009
+GME-0033|Portal 2|Puzzle|699|70|Valve|Valve|Valve|2011
+GME-0034|The Talos Principle 2|Puzzle|2499|25|Croteam|Devolver Digital|Croteam|2023
+GME-0035|Outer Wilds|Mystery|1899|35|Mobius Digital|Annapurna Interactive|Mobius Digital|2019
+GME-0036|Disco Elysium The Final Cut|Story Rich|1999|55|ZA/UM|ZA/UM|ZA/UM|2021
+GME-0037|Life is Strange Remastered|Story Rich|2299|30|Deck Nine|Square Enix|Square Enix|2022
+GME-0038|Firewatch|Atmospheric|999|50|Campo Santo|Panic|Campo Santo|2016
+GME-0039|Stray|Adventure|2299|30|BlueTwelve Studio|Annapurna Interactive|BlueTwelve Studio|2022
+GME-0040|It Takes Two|Co-op|2999|45|Hazelight Studios|Electronic Arts|Electronic Arts|2021
+GME-0041|Overcooked 2|Party|1499|50|Ghost Town Games and Team17|Team17|Team17|2018
+GME-0042|Among Us|Party|499|20|Innersloth|Innersloth|Innersloth|2018
+GME-0043|Fall Guys|Party|0|0|Mediatonic|Epic Games|Epic Games|2020
+GME-0044|Forza Horizon 5|Racing|4999|30|Playground Games|Xbox Game Studios|Microsoft Gaming|2021
+GME-0045|Need for Speed Heat|Racing|2999|55|Ghost Games|Electronic Arts|Electronic Arts|2019
+GME-0046|EA Sports FC 25|Sports|5999|20|EA Vancouver and EA Romania|EA Sports|Electronic Arts|2024
+GME-0047|NBA 2K25|Sports|5999|25|Visual Concepts|2K|Take-Two Interactive|2024
+GME-0048|Tekken 8|Fighting|5499|15|Bandai Namco Studios and Arika|Bandai Namco Entertainment|Bandai Namco Entertainment|2024
+GME-0049|Street Fighter 6|Fighting|4999|25|Capcom|Capcom|Capcom|2023
+GME-0050|Mortal Kombat 1|Fighting|5499|30|NetherRealm Studios|Warner Bros. Games|Warner Bros. Games|2023
+GME-0051|Age of Empires IV Anniversary Edition|Strategy|2999|35|Relic Entertainment and World's Edge|Xbox Game Studios|Microsoft Gaming|2021
+GME-0052|Sid Meier's Civilization VI|Strategy|1999|70|Firaxis Games|2K|Take-Two Interactive|2016
+GME-0053|Total War Warhammer III|Strategy|4999|40|Creative Assembly|Sega|Sega|2022
+GME-0054|XCOM 2|Tactical|2499|75|Firaxis Games|2K|Take-Two Interactive|2016
+GME-0055|Metal Gear Solid V The Phantom Pain|Stealth|1999|50|Kojima Productions|Konami|Konami|2015
+GME-0056|Hitman World of Assassination|Stealth|4999|35|IO Interactive|IO Interactive|IO Interactive|2021
+GME-0057|Subnautica|Survival|1999|40|Unknown Worlds Entertainment|Unknown Worlds Entertainment|Krafton|2018
+GME-0058|The Forest|Survival|1199|50|Endnight Games|Endnight Games|Endnight Games|2018
+GME-0059|Palworld|Survival|2899|10|Pocketpair|Pocketpair|Pocketpair|2024
+GME-0060|Brawlhalla|Free to Play|0|0|Blue Mammoth Games|Ubisoft|Ubisoft|2017
+GME-0061|Roblox|Family Friendly|0|0|Roblox Corporation|Roblox Corporation|Roblox Corporation|2006
+GME-0062|Rocket League|Arcade|0|0|Psyonix|Epic Games|Epic Games|2015

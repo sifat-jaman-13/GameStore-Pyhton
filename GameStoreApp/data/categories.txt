@@ -1,0 +1,35 @@
+Action
+Action RPG
+Adventure
+Arcade
+Atmospheric
+Battle Royale
+Casual
+Co-op
+Competitive
+Family Friendly
+Fantasy
+Fighting
+Free to Play
+Horror
+Indie
+MMO
+Mystery
+Open World
+Party
+Platformer
+Puzzle
+Racing
+Roguelike
+RPG
+Sandbox
+Sci-Fi
+Shooter
+Simulation
+Single Player
+Sports
+Stealth
+Story Rich
+Strategy
+Survival
+Tactical

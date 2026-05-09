@@ -1,0 +1,13 @@
+{
+  "include": [
+    "GameStoreApp",
+    "run_admin.py"
+  ],
+  "extraPaths": [
+    "GameStoreApp"
+  ],
+  "venvPath": ".",
+  "venv": ".venv",
+  "pythonVersion": "3.14",
+  "typeCheckingMode": "basic"
+}
