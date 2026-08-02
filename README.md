@@ -19,7 +19,7 @@
 **Language:** Python 3.14+ with customtkinter  
 **Version:** 1.0.0 - Production Ready  
 **Created:** May 8, 2026
-**GitHub Repository:** https://github.com/sifat-jaman-13/Game-Store-Project-With-Python
+**GitHub Repository:** [https://github.com/sifat-jaman-13/Game-Store-Project-With-Python](https://github.com/sifat-jaman-13/GameStore-Pyhton)
 ---
 ## 🎯 Project Overview
 ScarZero Game Store is a production-ready game store management system demonstrating advanced Object-Oriented Programming principles. It features a modern GUI built with customtkinter, modular architecture, file-based data persistence, and professional application design patterns.
