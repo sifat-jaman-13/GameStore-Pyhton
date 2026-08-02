@@ -1,12 +1,66 @@
-# SAT - Management Systems
+# GameStore-Python
 
-[![University](https://img.shields.io/badge/University-North%20South%20University-blue)](https://www.northsouth.edu/)
-[![Course](https://img.shields.io/badge/Course-CSE115L-brightgreen)](https://ece.northsouth.edu/courses/cse-115/)
-[![Language](https://img.shields.io/badge/Language-C-orange)](https://www.cprogramming.com/)
-[![GCC](https://img.shields.io/badge/Compiler-GCC-red)](https://gcc.gnu.org/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-333333?logo=github)](https://github.com/sifat-jaman-13/SAT)
-[![Version](https://img.shields.io/badge/Version-2.0%20Fixed-yellow)](#-version-history)
-[![Status](https://img.shields.io/badge/Status-Production%20Ready-success)](#-project-goals---all-achieved-)
+[![Language](https://img.shields.io/badge/Language-Python-blue)](https://www.python.org/)
+[![Status](https://img.shields.io/badge/Status-Active-success)](#)
 [![License](https://img.shields.io/badge/License-Educational%20Use-informational)](LICENSE)
 
-Advanced C-based management systems featuring **Phonebook Management** and **Movie Library Management**. These projects were developed as part of CSE115L coursework at North South University, demo...
+A simple Python-based game store management project.
+
+## Overview
+
+This repository contains a Game Store project written primarily in **Python**. It appears to be a coursework/personal project focused on basic store operations and management workflows.
+
+## Features
+
+- Manage game inventory
+- Track game details and pricing
+- Basic store management operations
+
+## Tech Stack
+
+- **Language:** Python
+- **Other:** Shell scripts (minimal)
+
+## Repository
+
+- GitHub: https://github.com/sifat-jaman-13/GameStore-Pyhton
+
+## Getting Started
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/sifat-jaman-13/GameStore-Pyhton.git
+cd GameStore-Pyhton
+```
+
+2. (Optional) Create a virtual environment:
+
+```bash
+python -m venv .venv
+source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+```
+
+3. Install dependencies (if a requirements file exists):
+
+```bash
+pip install -r requirements.txt
+```
+
+4. Run the project (update with the correct entry file if different):
+
+```bash
+python main.py
+```
+
+## Notes
+
+- The previous README content referenced a different C-language repository. This README has been updated to match this Python repository.
+
+## Contributing
+
+Contributions are welcome through pull requests.
+
+## License
+
+This project is intended for educational use.
